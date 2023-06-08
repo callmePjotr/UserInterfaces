@@ -1,5 +1,5 @@
 # UserInterfaces
-conda create --name tensorflow python=3.8.8
+conda create --name tensorflow python=3.8.8\n
 conda activate tensorflow
 
 richtigen Kernel in Pycharm auswählen
